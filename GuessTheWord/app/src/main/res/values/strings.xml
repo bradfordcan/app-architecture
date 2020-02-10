@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guess The Word</string>
+    <string name="text_word_is">The word is</string>
+    <string name="text_skip">Skip</string>
+    <string name="text_got_it">Got it!</string>
+
+    <string name="text_you_scored">You Scored</string>
+    <string name="text_quote_format">\"%s\"</string>
+    <string name="text_score_format">Current Score: %d</string>
+    <string name="text_play_again">Play Again</string>
+
+    <string name="text_title">guess the word!</string>
+    <string name="text_play">Play</string>
+    <string name="text_get_ready">Get ready to</string>
+</resources>
